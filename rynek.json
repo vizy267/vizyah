@@ -1,33 +1,5 @@
 {
   "version": 1,
-  "updated": 1792874134760,
-  "free": [
-    {
-      "id": "725778e6-b8f8-48e9-ad26-11652bbb9aa2",
-      "item": "minecraft:red_dye",
-      "cmd": 1.0,
-      "stack": {
-        "id": "minecraft:red_dye",
-        "count": 1,
-        "components": {
-          "minecraft:custom_model_data": {
-            "floats": [
-              1.0
-            ]
-          },
-          "minecraft:custom_name": "{\"extra\":[{\"bold\":true,\"color\":\"dark_red\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"Dodatkowe serce\",\"underlined\":false}],\"text\":\"\"}",
-          "minecraft:lore": [
-            "{\"extra\":[\" \",{\"bold\":false,\"color\":\"dark_gray\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\">> \",\"underlined\":false},{\"color\":\"green\",\"italic\":false,\"text\":\"Kliknij PRAWYM, aby je wykorzystać!\"}],\"text\":\"\"}"
-          ]
-        }
-      },
-      "priceBefore": "1000",
-      "priceAfter": "1800",
-      "time": "45d",
-      "description": "Serca drożeja bo ludzie na pety potrzebują.",
-      "theme": 3,
-      "createdAt": 1792874134473,
-      "chance": 100
-    }
-  ]
+  "updated": 1792874181364,
+  "free": []
 }
