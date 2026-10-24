@@ -1,89 +1,7 @@
 {
   "version": 1,
-  "updated": 1792872545574,
+  "updated": 1792872547494,
   "free": [
-    {
-      "id": "fd08f465-c2ce-443f-9f5a-3b23906a0e66",
-      "item": "minecraft:player_head",
-      "stack": {
-        "id": "minecraft:player_head",
-        "count": 1,
-        "components": {
-          "minecraft:hide_additional_tooltip": {},
-          "minecraft:custom_data": {
-            "nbt.path.lore": "pet.cyberdefender.lore|expire=1793704910000",
-            "translated-lore": [
-              "{\"text\":\"\",\"extra\":[{\"text\":\"Przedmiot eventowy\",\"strikethrough\":false,\"obfuscated\":false,\"bold\":false,\"italic\":false,\"underlined\":false,\"color\":\"dark_gray\"}]}",
-              "\"\"",
-              "{\"text\":\"\",\"extra\":[{\"text\":\"Otrzymasz następujące bonusy:\",\"strikethrough\":false,\"obfuscated\":false,\"bold\":false,\"italic\":false,\"underlined\":false,\"color\":\"white\"}]}",
-              "{\"text\":\"\",\"extra\":[\" \",{\"text\":\"» \",\"strikethrough\":false,\"obfuscated\":false,\"bold\":false,\"italic\":false,\"underlined\":false,\"color\":\"dark_gray\"},{\"text\":\"Podgląd \",\"italic\":false,\"color\":\"gray\"},{\"text\":\"życia \",\"italic\":false,\"color\":\"dark_red\"},{\"text\":\"przeciwnika\",\"italic\":false,\"color\":\"gray\"}]}",
-              "{\"text\":\"\",\"extra\":[\" \",{\"text\":\"» \",\"strikethrough\":false,\"obfuscated\":false,\"bold\":false,\"italic\":false,\"underlined\":false,\"color\":\"dark_gray\"},{\"text\":\"30% \",\"italic\":false,\"color\":\"dark_aqua\"},{\"text\":\"odporności w \",\"italic\":false,\"color\":\"gray\"},{\"text\":\"wodzie\",\"italic\":false,\"color\":\"aqua\"}]}",
-              "{\"text\":\"\",\"extra\":[\" \",{\"text\":\"» \",\"strikethrough\":false,\"obfuscated\":false,\"bold\":false,\"italic\":false,\"underlined\":false,\"color\":\"dark_gray\"},{\"text\":\"Stały efekt \",\"italic\":false,\"color\":\"gray\"},{\"text\":\"szybkości kopania 2\",\"italic\":false,\"color\":\"yellow\"}]}",
-              "{\"text\":\"\",\"extra\":[\" \",{\"text\":\"» \",\"strikethrough\":false,\"obfuscated\":false,\"bold\":false,\"italic\":false,\"underlined\":false,\"color\":\"dark_gray\"},{\"text\":\"+2 \",\"italic\":false,\"color\":\"red\"},{\"text\":\"dodatkowe obrażenia\",\"italic\":false,\"color\":\"gray\"}]}",
-              "\"\"",
-              "{\"text\":\"\",\"extra\":[{\"text\":\"Pet wygaśnie: \",\"strikethrough\":false,\"obfuscated\":false,\"bold\":false,\"italic\":false,\"underlined\":false,\"color\":\"gray\"},{\"text\":\"03-11-2026, 12:21:50\",\"italic\":false,\"color\":\"white\"}]}",
-              "{\"text\":\"\",\"extra\":[{\"text\":\"Wygenerowany unikalny szyfr:\",\"strikethrough\":false,\"obfuscated\":false,\"bold\":false,\"italic\":false,\"underlined\":false,\"color\":\"gray\"}]}",
-              "{\"text\":\"\",\"extra\":[{\"text\":\"8ef9edab-0916-4970-bcac-abeaf1654ff0\",\"strikethrough\":false,\"obfuscated\":false,\"bold\":false,\"italic\":false,\"underlined\":false,\"color\":\"yellow\"}]}",
-              "{\"text\":\"\",\"extra\":[{\"text\":\"Kliknij prawym, aby aktywować!\",\"strikethrough\":false,\"obfuscated\":false,\"bold\":false,\"italic\":false,\"underlined\":false,\"color\":\"green\"}]}"
-            ],
-            "translated-name": "{\"text\":\"\",\"extra\":[{\"text\":\"Pet \",\"strikethrough\":false,\"obfuscated\":false,\"bold\":false,\"italic\":false,\"underlined\":false,\"color\":\"gray\"},{\"text\":\"Cyber-Obrońca \",\"italic\":false,\"color\":\"blue\"},{\"text\":\"na czas \",\"italic\":false,\"color\":\"gray\"},{\"text\":\"30 dni\",\"italic\":false,\"color\":\"dark_aqua\"}]}",
-            "nbt.path.name": "pet.cyberdefender.title|days=30"
-          },
-          "minecraft:custom_name": "\"§7Pet §9Cyber-Obrońca §7na czas §330 dni\"",
-          "minecraft:enchantments": {
-            "levels": {
-              "minecraft:frost_walker": 1
-            },
-            "show_in_tooltip": false
-          },
-          "minecraft:lore": [
-            "\"§8Przedmiot eventowy\"",
-            "\"\"",
-            "\"§fOtrzymasz następujące bonusy:\"",
-            "\" §8» §7Podgląd §4życia §7przeciwnika\"",
-            "\" §8» §330% §7odporności w §bwodzie\"",
-            "\" §8» §7Stały efekt §eszybkości kopania 2\"",
-            "\" §8» §c+2 §7dodatkowe obrażenia\"",
-            "\"\"",
-            "\"§7Pet wygaśnie za: §f9d 20h\"",
-            "\"§aKliknij prawym, aby aktywować!\""
-          ],
-          "minecraft:attribute_modifiers": {
-            "modifiers": [
-              {
-                "type": "minecraft:luck",
-                "id": "gg-sectors:dummy",
-                "amount": 0.0,
-                "operation": "add_value"
-              }
-            ],
-            "show_in_tooltip": false
-          },
-          "minecraft:profile": {
-            "name": "skull",
-            "id": [
-              960584119,
-              -1031982388,
-              -1475486390,
-              620111259
-            ],
-            "properties": [
-              {
-                "name": "textures",
-                "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTE2Mzk1NDQ0NjZlNTU1OWE4YzViYzNjN2YwYzVmNzM4NjcwNmY3N2IwYTAwOTljZTU1NTU5OWRlNmJmZTk1NSJ9fX0="
-              }
-            ]
-          },
-          "!minecraft:equippable": {}
-        }
-      },
-      "priceBefore": "190k",
-      "priceAfter": "600k",
-      "time": "180d",
-      "description": "Kupcie tylko jeśli gracie pvp i macie serca na przedłużanie.",
-      "theme": 0,
-      "createdAt": 1792853616810
-    },
     {
       "id": "4f97a373-cfc7-4ce0-9c61-c56f71cf5ff4",
       "item": "minecraft:diamond_boots",
@@ -301,7 +219,7 @@
     }
   ],
   "premium": {
-    "iv": "5cebpVByiy1TmCdL",
-    "data": "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"
+    "iv": "ibouE+uwMVdahumg",
+    "data": "4/Pv860DcBgEJjIYLGtSXblE2nRp5xCXAnd6wBWEuM0yipTFiASBsICzgbME4HTxrEMl6gjzMUTukSHI4pobSnPfmEF4FN/yo5nNcvDwgGhLIElvH8nJO4Rgf0yQmQ4MocE82PsJwydvUMrfhKzIoeXISBy0oiVY6FUGhTrd47eih6ctGLHf7Dr4t5wHRZiY67d9qEfC/hgYleKH4lguMRK8nHMfk8IaaJDinKW4jMCAWszAE1THCAoeHFyz8+MuXzzoiMOs+qmfPOE/L7NTQ67sPVhALbt+AAoSStIi0A6HTw1NcHZnukUQfAKHMEWQSTu6/8Onc31e/TZvNQI15fgIPpjLmE1DhEgQ3FEOz/yHWZ5bkvB/LW8jX0/KQOxIrBTz4mlLQGubKjtsBvpCsFYwriqvhoHNRzpC05wThYG3XXjxcJOl/nqxCy1tBLt+l0BRYjKrtV8cKBgFtAaKp8fVXEE+Uonb8XYDPr2C/jl3kZzSQDL2MQ0gDUT6q1jtw/5AIUMqx8CpgSXvoT0xOe7FeWU2uIOvRpl5GrPjUllstfXiC3pe7TrJRC1sf4gFivzs/S1OSRUzuCYq7U4bpoSO5MEpxBCNQNHJYJt85sTg9yYHKvt4MY6nFgMsjCfx0l4Qc+iVw00NqL26VOsub18PZjN0Gu3sqHi2D1CRU/h+qY3lcfbvjXF7U1/rcN9cQuMFn4vSx9ODJPkIMLyZEndSE5iknwpi1wWUf3vyI89mBYrBqqvDNi5BQKnbUnGgGeRWFYQPnC0vtHhj+RHKmjHPDGpK8g4gqcD+YoEWn/yxmCUdLgmfkC6PDEgpQuOORZoMin6u8P1Obg0jTDOfHwpdxjLnfIjyUGROO2V0LBbLSGQV0wPS10icy+W+LaeBRPoSRf7zYiV+3ZOEvDiECeGTdYj+il0wUtDn0Bk8RW1/dEOTjXlftAUZsx2RG+pa8BpJW+2WsQj4NJsJn4VRZE3QdIG0HObyUu3U+wW/gVm5KRf216XV1xw+baZaJxqxw6VWEuX4KyO+kqrb5HqkdzPEacdT6gpyW2hHX/Rn5Ek3KPLJNNlzISU7JqMQThJMY4XTpuwPu5l2ygX6KoNS+EJ9ATIG97Eeeb2kFpZFzVGKVENTIYOIE9MdzkhM1rbyZX5P7NC8EdpwXLduWTw9yITnGFxvLT0+H5f5tRJ+BF3EE4DrNj2mpLF00e+p6UokQgxgf4zshzxVDDt5fcGDE3n2pnNiu8FwUM4wn4qz23MerTVtdYoo6KYM4omawdOPy/XOa/RZpAHLk6FOVPAGejMRGePLuZTyOfrIUlOAMxP0wgv0f7dA6nGIDpFh8rSf5D+q2ZlYcmPFtmJ/+LOGblfenLoB7DB0G/piJi2kS3FoGJ3fqWOd14bWTlm2Mh226NvLwgUWg4A9zHF2OHYk2Szj0wOOoAqcBMHF5U+1Y6R7iYjJHFta0kO684rs4m1NrDH5gZxr/nkbHISmcFXxr1tDAvuJqol8PiLPpA4bHEy4aR+vCwWqwdDhu4/fcTDHhtjJFS48oxttcBRtUTjZciTZ2GL+1EXp0kVpejxJFGiIpkFaXEYFCkPrzmugjNq0Gp02zqlOS2FExmQ4I7cvvJ26sdpcrcTsDiUK7oVslzBd8You1Uw2byHGbJZsUcJzXw5RHxbQPRlUh20Gx8eyEnKj/p9mR1J//2oa2Izhb/WlOGnCfS9ij4O6y8t8CFaqlt5d6BHcf/kBkLZeED+/d55elEkvXeb6k+l/k/9MvaodKVR8Ft6awUrw8pQqkZ7bBJqpVbjVuU68YabOiAaOun0f36RfEZpozgmHbZZgOF+iYaJjdjaHc0KyjzA0mqzxp2BbUkuBIGImognDSZ4cgMy6ONeB22+WBm5ETLQyIfT5rgqIpEUFwT7GLTIuB0hTRcsnIDCOnwpPrgnVxjSoSpBhtVCoe1LimRGY3OBV4vlSnU5mKdh6WA6jFvWjX7Yu4MHZDAzLdp8zqVf2CCsj70KeiF1qhLd9ejvMQ6Xhei1EnBHiTEnVtDoJ51l2/lBB1bcjZTVk1o1U4AtM2/vPQyzbAyQDX+t/GI+wnNeVIJrj1iQrlTo+S4dwbCDY0iiKrRWm7NamRbQ24folov2Id1Q3YCwFfajIynlQH6hwE9VcuF8qJebtMijFjmCWQz1heeMOoQh/FG9hz6HPOy2NXAyqOYWEgjJ4S30ENO6+UqsabJYUdV+bUUXuHSOY7dglvcMlVEpKN3NiRd0/xR2t29+w7Ecy5bzhQkwkdTPZmb83Auy/OBCd5yNgBOeeKOXTCRVxDac9sQjlzhTwf7xmHZl4mebo/X6Nsz5hz3h7/dFSWuVZrbHJp3Cl1nWoVE7qR0BlXHI0oYDvhEbcAS5w8aMfroJ5mlfyiIRlGr03tLv4Mvp6cu1CPGz+gJyUELZeXvAnAA8NNQe6FSEZYAxbJME5KZBdyoOI6w3ykll0yNz54gi/If50zqlS9PXYySJ0x1N24JYPXhDVAncmk040V2FAqoqzwasBt36y2vD5gCGc4+Ggs75e5RWZHgy++OttCF8YrKIBOMhlCX+Kdqip2m7h2d+LYVsycdMrzniV281cOfcHlTnVEiT6e+SZhBjDbnyNRE1Fngei3MKHRcRV07IlDwQp61zvzbnnmsXmoxZQTN9accJMsE3LinlSoTZfXf4GBgEIDStiQBZGfXxdrxM6lSNEmCV0yQ9s12uygCeNGlLX31fCLGUk3+UPNX+I/rkZ2q8ueATDlUtH8adtzMZAjwCxbRBso2TWsM6fgiq8StV8p+XDczFblj+SDP/A4Bs+ZNRscuoGn2JsO8NsLUyduhYGViHKK3/Y7/buow9ovSEpRdkonGL32ijZprw/3IU6pwfHQTHzjZwiBbHe1vY7vIOndVv81fsMwUHdIwToS4qAdArS8WghUITTGHatP+Rk8Dwt+rUKx6opGvW4DJ4mPNTowkAVhNlP0Y+rWkvd2tn2eHznEAbTAA9po2XBG2f7Yo2CkAAJvVjba4aLUKSGwn8IYheZowZM++ZEJodu0SgF/BqJRLwA4M/3DHA="
   }
 }
