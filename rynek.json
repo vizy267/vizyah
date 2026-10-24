@@ -1,7 +1,34 @@
 {
   "version": 1,
-  "updated": 1792874190660,
+  "updated": 1792874686443,
   "free": [
+    {
+      "id": "f1fffd25-f8d7-4986-9a38-dd57f7b92d87",
+      "item": "minecraft:red_dye",
+      "cmd": 1.0,
+      "stack": {
+        "id": "minecraft:red_dye",
+        "count": 1,
+        "components": {
+          "minecraft:custom_model_data": {
+            "floats": [
+              1.0
+            ]
+          },
+          "minecraft:custom_name": "{\"extra\":[{\"bold\":true,\"color\":\"dark_red\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"Dodatkowe serce\",\"underlined\":false}],\"text\":\"\"}",
+          "minecraft:lore": [
+            "{\"extra\":[\" \",{\"bold\":false,\"color\":\"dark_gray\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\">> \",\"underlined\":false},{\"color\":\"green\",\"italic\":false,\"text\":\"Kliknij PRAWYM, aby je wykorzystać!\"}],\"text\":\"\"}"
+          ]
+        }
+      },
+      "priceBefore": "2",
+      "priceAfter": "222222222222222222222222",
+      "time": "222222222222",
+      "description": "222222222222222",
+      "theme": 3,
+      "createdAt": 1792874686153,
+      "chance": 70
+    },
     {
       "id": "ef0c03a7-4a35-4442-9413-a7c251233183",
       "item": "minecraft:red_dye",
