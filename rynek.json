@@ -1,5 +1,33 @@
 {
   "version": 1,
-  "updated": 1792874693112,
-  "free": []
+  "updated": 1792875212816,
+  "free": [
+    {
+      "id": "3c949814-66d4-46fb-9194-fc8d2eaa61b8",
+      "item": "minecraft:red_dye",
+      "cmd": 1.0,
+      "stack": {
+        "id": "minecraft:red_dye",
+        "count": 1,
+        "components": {
+          "minecraft:custom_model_data": {
+            "floats": [
+              1.0
+            ]
+          },
+          "minecraft:custom_name": "{\"extra\":[{\"bold\":true,\"color\":\"dark_red\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"Dodatkowe serce\",\"underlined\":false}],\"text\":\"\"}",
+          "minecraft:lore": [
+            "{\"extra\":[\" \",{\"bold\":false,\"color\":\"dark_gray\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\">> \",\"underlined\":false},{\"color\":\"green\",\"italic\":false,\"text\":\"Kliknij PRAWYM, aby je wykorzystać!\"}],\"text\":\"\"}"
+          ]
+        }
+      },
+      "priceBefore": "1200",
+      "priceAfter": "2000",
+      "time": "30d",
+      "description": "Serca drozeja po evencie!",
+      "theme": 3,
+      "createdAt": 1792875212523,
+      "chance": 100
+    }
+  ]
 }
