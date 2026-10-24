@@ -1,50 +1,7 @@
 {
   "version": 1,
-  "updated": 1792872557882,
+  "updated": 1792872561004,
   "free": [
-    {
-      "id": "50465cbe-1cbe-44a0-8c41-b9fade7226af",
-      "item": "minecraft:fishing_rod",
-      "cmd": 2.0,
-      "stack": {
-        "id": "minecraft:fishing_rod",
-        "count": 1,
-        "components": {
-          "minecraft:custom_data": {
-            "PublicBukkitValues": {
-              "minecraft:anarchia": "361d830c-245c-48b8-99ed-4dd96a55e29f"
-            }
-          },
-          "minecraft:custom_model_data": {
-            "floats": [
-              2.0
-            ]
-          },
-          "minecraft:custom_name": "{\"extra\":[{\"bold\":true,\"color\":\"dark_purple\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"Wędka nielota\",\"underlined\":false}],\"text\":\"\"}",
-          "minecraft:enchantments": {
-            "levels": {
-              "minecraft:unbreaking": 3,
-              "minecraft:mending": 1,
-              "minecraft:vanishing_curse": 1
-            }
-          },
-          "minecraft:lore": [
-            "{\"extra\":[\" \",{\"bold\":false,\"color\":\"dark_gray\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"» \",\"underlined\":false},{\"color\":\"gray\",\"italic\":false,\"text\":\"Wędka nielota była do zdobycia\"}],\"text\":\"\"}",
-            "{\"extra\":[\" \",{\"bold\":false,\"color\":\"dark_gray\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"» \",\"underlined\":false},{\"color\":\"gray\",\"italic\":false,\"text\":\"w \"},{\"color\":\"white\",\"italic\":false,\"text\":\"2026 roku \"},{\"color\":\"gray\",\"italic\":false,\"text\":\"podczas \"},{\"color\":\"green\",\"italic\":false,\"text\":\"dnia dziecka\"}],\"text\":\"\"}",
-            "\"\"",
-            "{\"extra\":[\" \",{\"bold\":false,\"color\":\"dark_gray\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"» \",\"underlined\":false},{\"color\":\"gray\",\"italic\":false,\"text\":\"Po złapaniu gracza na haczyk\"}],\"text\":\"\"}",
-            "{\"extra\":[\" \",{\"bold\":false,\"color\":\"dark_gray\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"» \",\"underlined\":false},{\"color\":\"gray\",\"italic\":false,\"text\":\"nie może on odlecieć \"},{\"color\":\"light_purple\",\"italic\":false,\"text\":\"elytrą!\"}],\"text\":\"\"}"
-          ],
-          "minecraft:repair_cost": 7
-        }
-      },
-      "priceBefore": "300k",
-      "priceAfter": "500k",
-      "time": "90-120d",
-      "description": "jest to bardzo dobra eventowka jej cena jest zaniżona przez event gracze masowo chcą kasy by mogli kupywać ity na hallowen.",
-      "theme": 3,
-      "createdAt": 1792852595675
-    },
     {
       "id": "8a72fe68-9b32-4369-b202-c1022fb08c31",
       "item": "minecraft:netherite_sword",
@@ -117,7 +74,7 @@
     }
   ],
   "premium": {
-    "iv": "SQHDtZFVLXEj+y7l",
-    "data": "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"
+    "iv": "GtBboWgGpCU7phyy",
+    "data": "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"
   }
 }
