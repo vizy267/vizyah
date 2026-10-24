@@ -1,32 +1,5 @@
 {
   "version": 1,
-  "updated": 1792847336368,
-  "free": [
-    {
-      "id": "34ec312c-e61b-4bda-9012-c1f7ab8e2521",
-      "item": "minecraft:red_dye",
-      "cmd": 1.0,
-      "stack": {
-        "id": "minecraft:red_dye",
-        "count": 1,
-        "components": {
-          "minecraft:custom_model_data": {
-            "floats": [
-              1.0
-            ]
-          },
-          "minecraft:custom_name": "{\"extra\":[{\"bold\":true,\"color\":\"dark_red\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"Dodatkowe serce\",\"underlined\":false}],\"text\":\"\"}",
-          "minecraft:lore": [
-            "{\"extra\":[\" \",{\"bold\":false,\"color\":\"dark_gray\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\">> \",\"underlined\":false},{\"color\":\"green\",\"italic\":false,\"text\":\"Kliknij PRAWYM, aby je wykorzystać!\"}],\"text\":\"\"}"
-          ]
-        }
-      },
-      "priceBefore": "1200",
-      "priceAfter": "2000",
-      "time": "60-90d",
-      "description": "Inwestuj w czasie eventu!",
-      "theme": 6,
-      "createdAt": 1792847336110
-    }
-  ]
+  "updated": 1792847339573,
+  "free": []
 }
