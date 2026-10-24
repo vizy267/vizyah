@@ -1,5 +1,39 @@
 {
   "version": 1,
-  "updated": 1792872607357,
-  "free": []
+  "updated": 1792873466004,
+  "free": [
+    {
+      "id": "82f231a4-cc19-461a-92e8-e160d1ff3272",
+      "item": "minecraft:trident",
+      "stack": {
+        "id": "minecraft:trident",
+        "count": 1,
+        "components": {
+          "minecraft:damage": 2,
+          "minecraft:custom_data": {
+            "PublicBukkitValues": {
+              "minecraft:anarchia": "28086167-7263-48cd-a7c8-e9951ac4bda5"
+            }
+          },
+          "minecraft:enchantments": {
+            "levels": {
+              "minecraft:riptide": 3,
+              "minecraft:unbreaking": 3
+            }
+          },
+          "minecraft:lore": [
+            "{\"extra\":[{\"bold\":false,\"color\":\"white\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"Czas przeładowania 12s\",\"underlined\":false}],\"text\":\"\"}"
+          ],
+          "minecraft:repair_cost": 3
+        }
+      },
+      "priceBefore": "1111",
+      "priceAfter": "111111111111111111",
+      "time": "111111111111",
+      "description": "111111111111111",
+      "theme": 3,
+      "createdAt": 1792873465763,
+      "chance": 70
+    }
+  ]
 }
