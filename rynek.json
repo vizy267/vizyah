@@ -1,16 +1,5 @@
 {
   "version": 1,
-  "updated": 1792844484008,
-  "free": [
-    {
-      "id": "15f1ad1d-8444-48c6-b175-f5e3cb693796",
-      "item": "minecraft:red_dye",
-      "priceBefore": "1000",
-      "priceAfter": "1500",
-      "time": "30d",
-      "description": "Po EVENCIE drozeją!",
-      "theme": 0,
-      "createdAt": 1792844483725
-    }
-  ]
+  "updated": 1792847308051,
+  "free": []
 }
