@@ -1,7 +1,39 @@
 {
   "version": 1,
-  "updated": 1792852379316,
+  "updated": 1792852424134,
   "free": [
+    {
+      "id": "8a72fe68-9b32-4369-b202-c1022fb08c31",
+      "item": "minecraft:netherite_sword",
+      "stack": {
+        "id": "minecraft:netherite_sword",
+        "count": 1,
+        "components": {
+          "minecraft:damage": 192,
+          "minecraft:custom_data": {
+            "PublicBukkitValues": {
+              "minecraft:anarchia": "ec374bd2-86b0-424c-814d-b1caabf07980"
+            }
+          },
+          "minecraft:enchantments": {
+            "levels": {
+              "minecraft:fire_aspect": 2,
+              "minecraft:sharpness": 6
+            }
+          },
+          "minecraft:custom_name": "{\"extra\":[{\"bold\":false,\"color\":\"dark_red\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"Anarchiczny miecz\",\"underlined\":false}],\"text\":\"\"}",
+          "minecraft:lore": [
+            "{\"extra\":[{\"bold\":false,\"color\":\"gray\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"Dodatkowe obrażenia 3%\",\"underlined\":false}],\"text\":\"\"}"
+          ]
+        }
+      },
+      "priceBefore": "17k",
+      "priceAfter": "28k",
+      "time": "12d",
+      "description": "Na evencie takie itemy drożeją.",
+      "theme": 6,
+      "createdAt": 1792852423840
+    },
     {
       "id": "496fddb1-ae99-4da2-9ae6-1622eb03b1db",
       "item": "minecraft:fishing_rod",
@@ -42,7 +74,7 @@
     }
   ],
   "premium": {
-    "iv": "ogjdl4meeOM0LaC3",
-    "data": "mnfqrmi/uiW+S6ibpxSADAH9Ns5Am1z9v/nY9XqUqvL9yF6wjhGbqjJrPqUFEfqWlyHSmjyUyaiI90x+9toK319RnF9RqtBkqMVgoUO/puf7nfTZw1lB18CVqqGALMrQBrXldn9x14bkpq38xm/UtP0ZeXuwRdsrzADTgJMENNoYB5ytNblF3St5viLZ7bwfBxIHJKLNf0exwZmjvKMtHes2unJ6uZ3B/Xj4gfQVK2p6YrvJ25ohTCyiH4Rk6PU8j9m7ds6w9lpJZbQQRyzB7pmJLLEQ8peaDmW8cmyDRaFghBPTEbJqvYYSnl9k6wMsH2rOO1Nll3e0mAikPQ6uAqjFz8TOtBUkttrKcKKSbDdxGooXQ8X+8MHvmdwUqBP6GfouWGCpMq4NKr9dKLJ2ue5nDueFRFe1Mw3V90CXrGSDtYeoJvkMskhgMPh8TqGjTSzXYgEuZjvWEqOl+vPZ6O7U/mFWPGhx/mG4eSTy5UY9LUgSZmP8bHJ/BByV88/KNKH8t91swVZ08DAX3yMqFzK2cvcnU0W0233vtxLwSTpIb2zYiluIFzdwV+S+yDcQAykDsJAR/fnmqnHU3uO1WSskq8tq8Yv/Fwtqe78qUT7hs5EfYl943X6egSxVBg0dTPMuSVB0NGsUlHKKsMq44En6VP1gOXDqCGnumw/qt5BRIgPZeJOZeOsLaiK957ZPYjR3ecF7e9o8q3lYNrY63F/rq0bzw7PcaZ+/9hXfpHXlqP0SqrAbvcEtEDNgczc+s4eE5zbOgTcb/BF3oCH9owqOucItWl+Jbh7MtU6HOpJ8QyVZmT0n7L/ZRiLl2gKA2iQnaH+6e6FUQFXUj2paWNpZR26xruY8WrEMTlobv8umz/aZWLhwv5WYMnZiGQI8OEGNCAuBNp8="
+    "iv": "cbFcrfnsPBaZDzsO",
+    "data": "yIm16r5QMQi8224ByufOAEuXXSEU7nM5TvZpOZa4abmPTP0qQdWvklfkIOoMwL+0KhIsS+hUl9Yh+u/dmDKHrvdkTE1GNnCxJWEgZFQ0Hd/rPvDZfb6uIQA+dsitzH/FZKoMtD76nJlwOoM6ePRrI1KrZsSAnuSUpHEpUoDtz3YdQZOh1Fxy4A4hCyly8yUDpTxx0JAKkBtQ9Vp0vEbn8hfHeZ6IJHtTvs98iRZR3rgEsQZHlJ0tEGLCFK+vAAg4K/8OwXA0iZzlLQiS5X5FmucEidAwDB3BQzntZrZSedqa9YVOerYNj3b39cAkJg5Vr5Azag6vVhgVHtfjsYnW8HeFginnGBj3T+IXost13HAgKw0RjIAWB0N2QBvKhe7etYMFBewd1oTzzWjY3xY1fytRsF9FyDfLO/Ysa2FjlvYh1tBcZU7c6N8k0dg8SkMNu5DbJAH0yvknvFwdNgfro4HpGsPcb/FO8ftkLLRA9QZPE3ZU3eS6Xd6TxPUWiTfYaw/Z2egSmpppofmH3t5EvJK3VMJ1nqzMxiQcXQjTKCOcxmFe5PTxcUxm0vjj9avMs0b992LRefySLMtHL1C3tNtdt41WNdKIliSo7QHFOP9igAElHlxRYuzber0O0MF7oX/U0k6vW82hLoqjtkSooDnCWZlcMnm0oFyc1zHhwO8Ek+6Qxpekq41b124+XTgcszGWXIIw9QrBHucD4JT8YqdjqzCoEuerevLYy5kMH7s9V7TBhOPkgtokhHQzOTQXnT4u7sIGcS7JPaEnt0iiHuuwPcjXAVaCKDJpwJDry4IF8CyIV7QxofAHDnRBMsEemT66sR+bFI9H88EtCRIygBr4jWg+m4v7S9j/rmbvbGS16DOkfsv1+fjbtk7AksiddoiSL6W84aY="
   }
 }
