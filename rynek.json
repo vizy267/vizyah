@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": 1792848386174,
+  "updated": 1792852200392,
   "free": [
     {
       "id": "c195aa53-763e-4175-95dc-c8e7a2a2071d",
@@ -28,9 +28,5 @@
       "theme": 3,
       "createdAt": 1792847412191
     }
-  ],
-  "premium": {
-    "iv": "EJhPhFf0YY01+gW6",
-    "data": "AJ9ACwtAjTK3WK9VZZfBzgJYVUDDeMlYEKfbGKEf5TAJClhsgGmp1b7L5e2PvXTLtNXgQYJ3rlKK3qu1jidr8e+uSxkJXBmKz+VA/pLt+ujxt4r1k3bELaEgxxVl98X9cFug20dRCgW68CIwderwR/fGj8moRqLt6CO/4kCSpmnwpElX/255qdoOg6hqPO+rpwgC+V1X+41Yg98YmGTl1DvNx5PPPC4OfCCq04pVBTCt0b4XHG4Uem8wRnEn6n2dp//sSVU2lGreFe1HXBSkhGcaLIFqJjnW/yUZ/prWXYCD9NE/Ft4BGjjK/2ePUBeMLNUC8S4i4DZaabrmjIxGE3r/tBa+PbGmgBggZP4X8T/mgiDeIUZV2iUdY5+Q7D8nPXg3Fa2W61kRgxociC1wJOCCU1bwj7PGBhjqVRQyNYqfKWASTLrv2KdnGQawMatPtzhHfB1PAvbNGeAEXg3HxAfIfVluc4CxRidnNQmcrZqgnWoVaJ0="
-  }
+  ]
 }
