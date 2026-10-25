@@ -1,7 +1,50 @@
 {
   "version": 1,
-  "updated": 1792946934945,
+  "updated": 1792947005415,
   "free": [
+    {
+      "id": "20875282-5aec-4337-b146-5da27651baeb",
+      "item": "minecraft:stick",
+      "stack": {
+        "id": "minecraft:stick",
+        "count": 1,
+        "components": {
+          "minecraft:custom_name": "{\"extra\":[{\"bold\":false,\"color\":\"dark_gray\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"Rózga\",\"underlined\":false}],\"text\":\"\"}",
+          "minecraft:lore": [
+            "{\"extra\":[\" \",{\"bold\":false,\"color\":\"dark_gray\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"» \",\"underlined\":false},{\"color\":\"gray\",\"italic\":false,\"text\":\"Jest to przedmiot z:\"}],\"text\":\"\"}",
+            "{\"extra\":[\" \",{\"bold\":false,\"color\":\"dark_gray\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"» \",\"underlined\":false},{\"color\":\"white\",\"italic\":false,\"text\":\"eventu świątecznego (2023)\"}],\"text\":\"\"}",
+            "\"\"",
+            "{\"extra\":[\" \",{\"bold\":false,\"color\":\"dark_gray\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"» \",\"underlined\":false},{\"color\":\"red\",\"italic\":false,\"text\":\"Odrzuca \"},{\"color\":\"gray\",\"italic\":false,\"text\":\"z potężna siła\"}],\"text\":\"\"}",
+            "{\"extra\":[\" \",{\"bold\":false,\"color\":\"dark_gray\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"» \",\"underlined\":false},{\"color\":\"gray\",\"italic\":false,\"text\":\"niegrzecznych graczy!\"}],\"text\":\"\"}"
+          ],
+          "minecraft:hide_additional_tooltip": {},
+          "minecraft:enchantments": {
+            "levels": {
+              "minecraft:knockback": 4
+            },
+            "show_in_tooltip": false
+          },
+          "minecraft:attribute_modifiers": {
+            "modifiers": [
+              {
+                "type": "minecraft:luck",
+                "id": "gg-sectors:dummy",
+                "amount": 0.0,
+                "operation": "add_value"
+              }
+            ],
+            "show_in_tooltip": false
+          }
+        }
+      },
+      "priceBefore": "190k",
+      "priceAfter": "250k",
+      "time": "10d",
+      "description": "Na Evencie Rózgi Drożeja.",
+      "theme": 14,
+      "createdAt": 1792947005109,
+      "chance": 85
+    },
     {
       "id": "5b696a50-c1e2-4cbe-a9ee-f6fdc64430eb",
       "item": "minecraft:enchanted_golden_apple",
