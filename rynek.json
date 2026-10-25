@@ -1,7 +1,39 @@
 {
   "version": 1,
-  "updated": 1792875212816,
+  "updated": 1792928954275,
   "free": [
+    {
+      "id": "1948c887-024b-42be-b35e-50e3515fd7c6",
+      "item": "minecraft:blaze_rod",
+      "cmd": 1.0,
+      "stack": {
+        "id": "minecraft:blaze_rod",
+        "count": 1,
+        "components": {
+          "minecraft:custom_name": "{\"extra\":[{\"bold\":true,\"color\":\"green\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"Rozgotowana kukurydza\",\"underlined\":false}],\"text\":\"\"}",
+          "minecraft:lore": [
+            "{\"extra\":[\" \",{\"bold\":false,\"color\":\"dark_gray\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"» \",\"underlined\":false},{\"color\":\"gray\",\"italic\":false,\"text\":\"Jest to przedmiot zdobyty z\"}],\"text\":\"\"}",
+            "{\"extra\":[\" \",{\"bold\":false,\"color\":\"dark_gray\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"» \",\"underlined\":false},{\"color\":\"white\",\"italic\":false,\"text\":\"wydarzenia wakacyjnego 2024\"},{\"color\":\"gray\",\"italic\":false,\"text\":\"!\"}],\"text\":\"\"}",
+            "\"\"",
+            "{\"extra\":[\" \",{\"bold\":false,\"color\":\"dark_gray\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"» \",\"underlined\":false},{\"color\":\"gray\",\"italic\":false,\"text\":\"Wystrzeliwuje magiczny pocisk,\"}],\"text\":\"\"}",
+            "{\"extra\":[\" \",{\"bold\":false,\"color\":\"dark_gray\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"» \",\"underlined\":false},{\"color\":\"gray\",\"italic\":false,\"text\":\"który niszczy zbroję oraz zadaje\"}],\"text\":\"\"}",
+            "{\"extra\":[\" \",{\"bold\":false,\"color\":\"dark_gray\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"» \",\"underlined\":false},{\"color\":\"gray\",\"italic\":false,\"text\":\"obrażenia w miejscu wybuchu.\"}],\"text\":\"\"}"
+          ],
+          "minecraft:custom_model_data": {
+            "floats": [
+              1.0
+            ]
+          }
+        }
+      },
+      "priceBefore": "eeeeeeeeeeeeeeeeeeeeeeee",
+      "priceAfter": "eeeeeeeeeeeeeeeeeeeeeeee",
+      "time": "eeeeeeeeeeeeeeee",
+      "description": "eeeeeeeeeeeeeeeeeeeeee",
+      "theme": 3,
+      "createdAt": 1792928954022,
+      "chance": 100
+    },
     {
       "id": "3c949814-66d4-46fb-9194-fc8d2eaa61b8",
       "item": "minecraft:red_dye",
