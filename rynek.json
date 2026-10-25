@@ -1,7 +1,22 @@
 {
   "version": 1,
-  "updated": 1792928961286,
+  "updated": 1792946934945,
   "free": [
+    {
+      "id": "5b696a50-c1e2-4cbe-a9ee-f6fdc64430eb",
+      "item": "minecraft:enchanted_golden_apple",
+      "stack": {
+        "id": "minecraft:enchanted_golden_apple",
+        "count": 1
+      },
+      "priceBefore": "1000",
+      "priceAfter": "1600",
+      "time": "16d",
+      "description": "Koxsy Drożeja po Evencie.",
+      "theme": 4,
+      "createdAt": 1792946934656,
+      "chance": 70
+    },
     {
       "id": "3c949814-66d4-46fb-9194-fc8d2eaa61b8",
       "item": "minecraft:red_dye",
