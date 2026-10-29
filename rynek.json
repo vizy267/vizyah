@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": 1793305853425,
+  "updated": 1793305877056,
   "free": [
     {
       "id": "ddd63d25-4166-48cc-95df-c5d98a52fe0b",
@@ -209,53 +209,6 @@
       "chance": 100
     },
     {
-      "id": "74607a12-a22b-4d0c-8647-d3a9bc9d33ea",
-      "item": "minecraft:tripwire_hook",
-      "cmd": 2.0,
-      "stack": {
-        "id": "minecraft:tripwire_hook",
-        "count": 1,
-        "components": {
-          "minecraft:hide_additional_tooltip": {},
-          "minecraft:custom_model_data": {
-            "floats": [
-              2.0
-            ]
-          },
-          "minecraft:enchantments": {
-            "levels": {
-              "minecraft:fortune": 10
-            },
-            "show_in_tooltip": false
-          },
-          "minecraft:custom_name": "{\"extra\":[{\"bold\":false,\"color\":\"dark_purple\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"Klucz do epickiej skrzynki!\",\"underlined\":false}],\"text\":\"\"}",
-          "minecraft:lore": [
-            "\"\"",
-            "{\"extra\":[\" \",{\"bold\":false,\"color\":\"dark_gray\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"» \",\"underlined\":false},{\"color\":\"gray\",\"italic\":false,\"text\":\"Klucz ten służy do otworzenia skrzynki,\"}],\"text\":\"\"}",
-            "{\"extra\":[\" \",{\"bold\":false,\"color\":\"dark_gray\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"» \",\"underlined\":false},{\"color\":\"gray\",\"italic\":false,\"text\":\"która znajduje się na \"},{\"color\":\"white\",\"italic\":false,\"text\":\"/spawn\"}],\"text\":\"\"}"
-          ],
-          "minecraft:attribute_modifiers": {
-            "modifiers": [
-              {
-                "type": "minecraft:luck",
-                "id": "gg-sectors:dummy",
-                "amount": 0.0,
-                "operation": "add_value"
-              }
-            ],
-            "show_in_tooltip": false
-          }
-        }
-      },
-      "priceBefore": "10000",
-      "priceAfter": "12000",
-      "time": "12d",
-      "description": "Klucze Podrożeją.",
-      "theme": 3,
-      "createdAt": 1793041430910,
-      "chance": 100
-    },
-    {
       "id": "5b696a50-c1e2-4cbe-a9ee-f6fdc64430eb",
       "item": "minecraft:enchanted_golden_apple",
       "stack": {
@@ -299,7 +252,7 @@
     }
   ],
   "premium": {
-    "iv": "kaODsuhastP12B6+",
-    "data": "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"
+    "iv": "RvWU85a3ertZM1TF",
+    "data": "PQlbUYsSXRS6tzuGG3V8PEoPs6rGOtvz9ymJIwfIjXS0sU24VpOKUMqHx4rv/1kYFSCZihxfP8YlgbHpdPR8RXXsb2i+v/i0D5rlls7RRnvfZFGR+vWx+IIkkM+fslJuGah73PrToEHumBjXZV0soJ5xx+5f9/uHgWdMqs5pJFfzSbgtfVHyXj81DqVU40i5gRMJOpbSUVHzCeeNDoiRTSdKt6ErVTUcZu0ZzSd4uNbQrCOKhZU44G3woJbAMDh+lKbDYqsZPCn0g1LLojCA00f5g3k38+PJ55EhMHDC3x6Bv4nTWOgBN1ETjltxfhLfGgS6ddiufP1vWHZvXi2YShpFk4rZUkUrLj5JUR+t+lqzve8D0Sg53WDHynelnJTyclCaUki9q7F09c+C0HCJTbM/NTyKxq+F5RE+8IRgsAgo9WybrkPEYB+Z7yVhypCh40vW9C0jMQdSMXBzOOGCKy5mFZUg2ZYofdBNn/pUKtRUwk2E5UiiAOHk3Sk7yHvo5fguv++Br7jC/ZBrcRV8X8KoBr16IO99QgCImCERF5U4Jl6CKUSUuoDNL7tRvIqmlW0uXxPaYFQWVDjd4htd/UAL2JuYgZ9KmFGZuocNqgBPjJNSrJrbxevzg8QsYj1pHq017Sc9gA5fIpA4wSMaIPr2ybG5AhxP5U7IF/q08A0W2nUw84hjWTRzU84VDijtyhIU7xg0u4gObHV3RtT6jmgAfqqKTe8IxywhAJ5AsPL43JH5wlFpYdFbWZMg1mDIhiu9YYx6/5SOgSa97VumDqLzzydEqvmNNEm24AP+6ta2HAB4t/NN+eJ2S2CoY0xwEeaxNAn8M/ckcO9FfUi10rxHxkTcT5hyUICa3r4yafIUFD5nvpCwbItWQJSVGvqE8NzKvA2NcfpjGvCcgbxNTaYHqu3mOCRZ4FIeIXV7+gUCLVLW3AqLZn4ZU3mkhFxLQwkoMle3QZUhv1n5wledEPMyv2b/wFNl2+f5siRujAfP9xqwhjvAG0PIqE5v749OpVHlWyWXogICl07KyBVMur6pMjN1GepPZn4YbW0qd2HCLNCm+M6o3v2wMj9tmWasyli/j54lStulwrLQv/fCnx4kaHhFtHgLyqbeLFmqH+wSFatSXlri5A4P6TV44OV6qTKMsBDue4V/UchuQSD3WbZWM8ewJ8scKPGhHZyNJ5xNzw7tngMn03UyFlOAX/eWd459g17yd9G5SHEhvaUlfbn9/u0MU31YV/oHZoOqDp5nIAx9vNjD4hJ6xDBuOt7kIryaPVKBcwVokxb/zFpBd5wj65Pj1yY2fhzji0Cu5NqmkM/w14TEiFxyr01gd41CjBVXToJ9AZjArFdaR65rJ+FcZ+dQASVblPFLXJvyapYWppcGDyEMvTmZeGKvDJdgzacqTTk3SZRy1rjltgTvLyYitJLsVEWMYwmfZAd7GUgP/3g78hBRVEH/5qTcsinLCDbwiQsD85fLExQIhvpv0j2EVhNws1FUcEiQ8/UswtvEM6KTmiF0z3rcsUuWG3EFEgXCJm/jXMZReOlJJlCxjSsoKCjSKtGjeE7to+YPssi1w/c/V8F/Z4vimm7d56Kg/qcEHdO/CeeFIZ9F4uMX0ix+ijhV9X1lZi1pHom6KbOew1JBYbBKVjutrV39KEQY2Mbg3MUjV33Hf3Nn9kJIB3WHbxYZy0ucRFddVDVZ3GydSrGg4WjLcdkJeLcLQ9xrisxYXuOeMU0/Qzh5HXAYc69uUWYUJ2mh3mLgNXg+G2vJr2VXCUOGRLAK2larHbOjB8KL80behH+qvsWPvcv7Wnmkk3y5GlpWldsMr62NY6KlHMm/GhtfYxbj8ixZJ9qH7F4kOpguCp26uyhL8ADB9Tv2H495EY1JTJiOOPxxF7TNGKsfAuZ2WvLIAp+dbdnFIvJo6T4nB8rTMipS1mEqBEmfaPA97d+2emSqYez+Qhi7FEEocGUJ7vrcbtVp8Yzoo0dF+JMlcFFaTkx/S9IVHvUTSlSNn2iAb3y9PvVIc5x5Y/4OplTFa0MjDzUBUkIwmhPPdg8VfZoLjQFlBXHyAemTkdSNAPz7UEn1saQSn8a0n4JVBtJ0l1BLW6mMV0cRVA61CIUcMJ+8ZEINrKZAhsvnmkSW6GTbqRbItMXGwuLYDs5pQ63oVUKqJe+LnFHd8D+5k/38IxcnVNM5UH9ZqLwiZNM7eCDlTh7l4LapsiZWC4GwyEBZla17GGWEOoVRbu5kVmgzxjL2k+krXY7ajqGDmBJmzvTtpcbEuSVkcoS7Fye9JBvZlyvCm7lnzu6FbShoWf12r+yGcLPPQMb2TEMnjmtAs4az6639pvzwOi9KgHqeBoAiwRD71IEZAOLQcY6LUPvZxrvMzJcr52fFBwCk/SfzlPAfpN1A8nwnonymy65SNnU5xEb3OYlQUuaFQetL2r1gKFH6IWlORRVaP7QV/9XqoyD6kltaEU9AK0cPFsTbqPDrqw7XYwFoGCpxc+RyHQrPSpva9+z5jP1UTSGmoDzv2UDxyDOjYOFgchrHAsmuF6PoU+uRWLX7d1Aok03OBKylZfw1TOIolLLvanBkQG4pSxqyvrjNmSDzJWWT1rjpQS42oRB9d+zjeC6/Vb2y1nngJnejUwUqqJyasDmxIwvI+16FozOXRRHlfZV8m6odWH0kuJaXqih5JFRTHvauXVRf1OP4BTgnf6yzSePjSEpPoJ4fOjCAmDfMay4C1OnYmTG/aQu68mWxcOuiUJoWgwJUTVbhenjjPUQ8Q83yoNTWLB33Aa2O3kDBZZAq3iUR9rMnBA1eBA7pLw15daNlP4rR2rKh08cdNRQRJrgyrIlp2YfmfewPaTjzSbniHvxty2Tbm7LwblGRzUeZwV7/VAFZKDN3eIVluGkPJy7JGd5cDxchNEWg0TAvz6FgPCjSwztpMGzOC6XHrWgrZqhVQ4gaPdW0QcmKL3jnPG5qxE3Ohy2fvRX2N82FpIutcugzfhfMpjQ9BNwZTM9sHmYy9u4gSdyVkEbnGpopSGXsBNWBk5oB3S6+PGtmM+UP41zSnpxV4owlufRV6Ug8Dj50xW6umpeVZwkOlO5kM2r1H5WaLs59kmVZlRL7xFvx6RbmiJtTIWeWkFFekvuvMbChVIF0+DQ0jLgihnlrAn4nWKdg8Qwrd+PTfx6/5jFX1eqgePfDtRS/lmBlrjF77Tm0+A0T/KdwaLXqIcx+jGAXYYWWO2VDTpdfGavkDx3rqwCKyOUnubJeLlvyad3IxxfeTxY1qi88vvJw/alIgU07vdQNZAxWFHVughgIxm9TBfX1eAi+4V4WHqdGKV/XUM4f0FtaxCcKkEn7t+It7f+ZSk84VFqoroQRbf89khlkUtrj3oRPtPHpkbr7y9rVBRiT7poCJGR3KT8Yc80+Xxkq1uscqH51d2wQP9fhCMMXIqi8BG6PXT+AVHS4W1BDabCA8S+WYNqQaUPF52usvt4ZpiTtQqN7vqkC"
   }
 }
