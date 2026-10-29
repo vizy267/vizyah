@@ -1,7 +1,69 @@
 {
   "version": 1,
-  "updated": 1793305748033,
+  "updated": 1793305795693,
   "free": [
+    {
+      "id": "98f5f8e0-6aeb-4f57-b00c-ef488f284c5b",
+      "item": "minecraft:beacon",
+      "cmd": 888.0,
+      "stack": {
+        "id": "minecraft:beacon",
+        "count": 1,
+        "components": {
+          "minecraft:custom_name": "\"§d§lCudowna Latarnia\"",
+          "minecraft:lore": [
+            "\" §8» §7Przedmiot z §fświatecznego wydarzenia 2025§7!\"",
+            "\" §7\"",
+            "\" §8» §7Po postawieniu otrzymujesz:\"",
+            "\" §8» §dRegenerację V §8(20s)\"",
+            "\" §8» §eAbsorpcję VI §8(10s)\"",
+            "\" §8» §cSiłę II §8(10s)\"",
+            "\" §7\"",
+            "\" §8» §7Fontanna pozostanie aktywna przez §f30 sekund§7.\"",
+            "\" §8» §7Efekty działają w zasięgu §f30 kratek§7.\"",
+            "\" §8» §7Zniszczenie fontanny usuwa efekty.\""
+          ],
+          "minecraft:custom_model_data": {
+            "floats": [
+              888.0
+            ]
+          },
+          "minecraft:hide_additional_tooltip": {},
+          "minecraft:enchantments": {
+            "levels": {
+              "minecraft:unbreaking": 10
+            },
+            "show_in_tooltip": false
+          },
+          "minecraft:attribute_modifiers": {
+            "modifiers": [
+              {
+                "type": "minecraft:luck",
+                "id": "gg-sectors:dummy",
+                "amount": 0.0,
+                "operation": "add_value"
+              }
+            ],
+            "show_in_tooltip": false
+          },
+          "minecraft:custom_data": {
+            "nbt.path.lore": "item.legendary_fountain.lore",
+            "translated-lore": [
+              "{\"text\":\"\",\"extra\":[{\"text\":\"item.legendary_fountain.lore\",\"strikethrough\":false,\"obfuscated\":false,\"clickEvent\":{\"action\":\"open_url\",\"value\":\"http://item.legendary_fountain.lore\"},\"bold\":false,\"italic\":false,\"underlined\":false,\"color\":\"red\"},{\"text\":\"\",\"strikethrough\":false,\"obfuscated\":false,\"bold\":false,\"italic\":false,\"underlined\":false,\"color\":\"red\"}]}"
+            ],
+            "translated-name": "{\"text\":\"\",\"extra\":[{\"text\":\"item.legendary_fountain.title\",\"strikethrough\":false,\"obfuscated\":false,\"clickEvent\":{\"action\":\"open_url\",\"value\":\"http://item.legendary_fountain.title\"},\"bold\":false,\"italic\":false,\"underlined\":false,\"color\":\"red\"},{\"text\":\"\",\"strikethrough\":false,\"obfuscated\":false,\"bold\":false,\"italic\":false,\"underlined\":false,\"color\":\"red\"}]}",
+            "nbt.path.name": "item.legendary_fountain.title"
+          }
+        }
+      },
+      "priceBefore": "350k",
+      "priceAfter": "500k",
+      "time": "1d",
+      "description": "Ruletka zalezy od dmg od mobow.",
+      "theme": 3,
+      "createdAt": 1793305795356,
+      "chance": 51
+    },
     {
       "id": "8bb53c07-ad1d-4140-a136-851cf7578165",
       "item": "minecraft:totem_of_undying",
@@ -172,7 +234,7 @@
     }
   ],
   "premium": {
-    "iv": "KzCfA0t7SaXSe2PM",
-    "data": "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"
+    "iv": "TxLsX5nhNdZsHp31",
+    "data": "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"
   }
 }
