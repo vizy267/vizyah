@@ -1,7 +1,73 @@
 {
   "version": 1,
-  "updated": 1793305912123,
+  "updated": 1793305969015,
   "free": [
+    {
+      "id": "02858aae-1f7f-4bc3-80b3-08719fb5d81a",
+      "item": "minecraft:player_head",
+      "stack": {
+        "id": "minecraft:player_head",
+        "count": 1,
+        "components": {
+          "minecraft:custom_name": "\"§7Pet §bIRL §7na czas §330 dni\"",
+          "minecraft:lore": [
+            "{\"extra\":[{\"bold\":false,\"color\":\"dark_gray\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"Przedmiot eventowy\",\"underlined\":false}],\"text\":\"\"}",
+            "\"\"",
+            "{\"extra\":[{\"bold\":false,\"color\":\"white\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"Otrzymasz następujące bonusy:\",\"underlined\":false}],\"text\":\"\"}",
+            "{\"extra\":[\" \",{\"bold\":false,\"color\":\"dark_gray\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"» \",\"underlined\":false},{\"color\":\"red\",\"italic\":false,\"text\":\"+4 \"},{\"color\":\"gray\",\"italic\":false,\"text\":\"dodatkowych obrażeń\"}],\"text\":\"\"}",
+            "{\"extra\":[\" \",{\"bold\":false,\"color\":\"dark_gray\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"» \",\"underlined\":false},{\"color\":\"red\",\"italic\":false,\"text\":\"-50% \"},{\"color\":\"gray\",\"italic\":false,\"text\":\"obrażeń od dripstone\"}],\"text\":\"\"}",
+            "{\"extra\":[\" \",{\"bold\":false,\"color\":\"dark_gray\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"» \",\"underlined\":false},{\"color\":\"red\",\"italic\":false,\"text\":\"Nigdy \"},{\"color\":\"gray\",\"italic\":false,\"text\":\"nie stajesz się głodny\"}],\"text\":\"\"}",
+            "\"\"",
+            "{\"extra\":[{\"bold\":false,\"color\":\"gray\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"Koszt przedłużenia: \",\"underlined\":false},{\"color\":\"red\",\"italic\":false,\"text\":\"6 serc za dzień\"}],\"text\":\"\"}"
+          ],
+          "minecraft:hide_additional_tooltip": {},
+          "minecraft:enchantments": {
+            "levels": {
+              "minecraft:fire_aspect": 1
+            },
+            "show_in_tooltip": false
+          },
+          "minecraft:attribute_modifiers": {
+            "modifiers": [
+              {
+                "type": "minecraft:luck",
+                "id": "gg-sectors:dummy",
+                "amount": 0.0,
+                "operation": "add_value"
+              }
+            ],
+            "show_in_tooltip": false
+          },
+          "minecraft:custom_data": {
+            "nbt.path.name": "pet.irl.title|days=30",
+            "translated-name": "{\"text\":\"\",\"extra\":[{\"text\":\"Pet \",\"strikethrough\":false,\"obfuscated\":false,\"bold\":false,\"italic\":false,\"underlined\":false,\"color\":\"gray\"},{\"text\":\"IRL \",\"italic\":false,\"color\":\"aqua\"},{\"text\":\"na czas \",\"italic\":false,\"color\":\"gray\"},{\"text\":\"30 dni\",\"italic\":false,\"color\":\"dark_aqua\"}]}"
+          },
+          "minecraft:profile": {
+            "name": "skull",
+            "id": [
+              1722625694,
+              1528379474,
+              -1736981296,
+              -1755013004
+            ],
+            "properties": [
+              {
+                "name": "textures",
+                "value": "ewogICJ0aW1lc3RhbXAiIDogMTc5MjYwMzEwNjc1MywKICAicHJvZmlsZUlkIiA6ICIyNDY1ODI2NWVjMjg0NTY4YTg3MDJkOTVlYzdlYTc4MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJBcmdvc1oxMiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iNDY1ZDIyODFmMzhiYzFmNTk2NjRkM2VkYTdhODE3ZDU3NWZkZTg3YWMwN2YwODFjMDc3MTI2Nzk3OWYxNTE2IgogICAgfQogIH0KfQ=="
+              }
+            ]
+          },
+          "!minecraft:equippable": {}
+        }
+      },
+      "priceBefore": "XXX",
+      "priceAfter": "XXX",
+      "time": "111D",
+      "description": "NIE INWESTUJCIE W TO MOIM ZDANIEM STANIEJE!",
+      "theme": 11,
+      "createdAt": 1793305968622,
+      "chance": 20
+    },
     {
       "id": "6a0393d2-d0c3-42c9-8ab9-7986b43818c3",
       "item": "minecraft:blaze_rod",
@@ -310,7 +376,7 @@
     }
   ],
   "premium": {
-    "iv": "JUdWqX2hp5QaTSkk",
-    "data": "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"
+    "iv": "xXgoSwBcTO3dmttu",
+    "data": "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"
   }
 }
