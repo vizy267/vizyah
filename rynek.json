@@ -1,7 +1,72 @@
 {
   "version": 1,
-  "updated": 1793305795693,
+  "updated": 1793305853425,
   "free": [
+    {
+      "id": "ddd63d25-4166-48cc-95df-c5d98a52fe0b",
+      "item": "minecraft:leather_chestplate",
+      "stack": {
+        "id": "minecraft:leather_chestplate",
+        "count": 1,
+        "components": {
+          "minecraft:custom_name": "{\"extra\":[{\"bold\":false,\"color\":\"gray\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"Kostium \",\"underlined\":false},{\"color\":\"dark_purple\",\"italic\":false,\"text\":\"mima\"}],\"text\":\"\"}",
+          "minecraft:lore": [
+            "{\"extra\":[{\"bold\":false,\"color\":\"dark_gray\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"Unikatowa wersja!\",\"underlined\":false}],\"text\":\"\"}",
+            "{\"extra\":[{\"bold\":false,\"color\":\"gray\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"Został on wydany w trakcie \",\"underlined\":false},{\"color\":\"white\",\"italic\":false,\"text\":\"unikatowego\"}],\"text\":\"\"}",
+            "{\"extra\":[{\"bold\":false,\"color\":\"gray\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"wydarzenia \",\"underlined\":false},{\"color\":\"white\",\"italic\":false,\"text\":\"szkolnego 2026\"},{\"color\":\"gray\",\"italic\":false,\"text\":\".\"}],\"text\":\"\"}",
+            "\"\"",
+            "{\"extra\":[{\"bold\":false,\"color\":\"gray\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"Dzięki temu przedmiotowi otrzymasz\",\"underlined\":false}],\"text\":\"\"}",
+            "{\"extra\":[{\"bold\":false,\"color\":\"white\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"unikatowy \",\"underlined\":false},{\"color\":\"gray\",\"italic\":false,\"text\":\"wygląd oraz \"},{\"color\":\"white\",\"italic\":false,\"text\":\"epickie \"},{\"color\":\"gray\",\"italic\":false,\"text\":\"bonusy\"}],\"text\":\"\"}",
+            "{\"extra\":[\" \"],\"text\":\"\"}",
+            "{\"extra\":[{\"bold\":false,\"color\":\"gray\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"Lista bonusów:\",\"underlined\":false}],\"text\":\"\"}",
+            "{\"extra\":[\" \",{\"bold\":false,\"color\":\"dark_gray\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"» \",\"underlined\":false},{\"color\":\"dark_red\",\"italic\":false,\"text\":\"+4 \"},{\"color\":\"gray\",\"italic\":false,\"text\":\"serc\"}],\"text\":\"\"}",
+            "{\"extra\":[\" \",{\"bold\":false,\"color\":\"dark_gray\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"» \",\"underlined\":false},{\"color\":\"red\",\"italic\":false,\"text\":\"Lustro bólu\"},{\"color\":\"gray\",\"italic\":false,\"text\":\", które przenosi obrażenia\"}],\"text\":\"\"}",
+            "{\"extra\":[\" \",{\"bold\":false,\"color\":\"gray\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"otrzymane na \",\"underlined\":false},{\"color\":\"yellow\",\"italic\":false,\"text\":\"wroga \"},{\"color\":\"dark_gray\",\"italic\":false,\"text\":\"(3x shift)\"}],\"text\":\"\"}",
+            "{\"extra\":[\" \",{\"bold\":false,\"color\":\"dark_gray\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"» \",\"underlined\":false},{\"color\":\"red\",\"italic\":false,\"text\":\"11% \"},{\"color\":\"gray\",\"italic\":false,\"text\":\"dodatkowych obrażeń\"}],\"text\":\"\"}",
+            "{\"extra\":[\" \"],\"text\":\"\"}",
+            "{\"extra\":[{\"bold\":false,\"color\":\"gray\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"Kostium wygaśnie: \",\"underlined\":false},{\"color\":\"white\",\"italic\":false,\"text\":\"01-11-2026, 18:21:52\"}],\"text\":\"\"}",
+            "{\"extra\":[{\"bold\":false,\"color\":\"green\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"Kliknij prawym, aby założyć!\",\"underlined\":false}],\"text\":\"\"}",
+            "\"\"",
+            "{\"extra\":[\" \",{\"bold\":false,\"color\":\"dark_gray\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"» \",\"underlined\":false},{\"color\":\"gray\",\"italic\":false,\"text\":\"Wystawił \"},{\"color\":\"white\",\"italic\":false,\"text\":\"wabbalabbadabdab\"}],\"text\":\"\"}",
+            "{\"extra\":[\" \",{\"bold\":false,\"color\":\"dark_gray\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"» \",\"underlined\":false},{\"color\":\"gray\",\"italic\":false,\"text\":\"Koszt \"},{\"color\":\"white\",\"italic\":false,\"text\":\"$400k \"},{\"color\":\"dark_gray\",\"italic\":false,\"text\":\"($400,000)\"}],\"text\":\"\"}",
+            "{\"color\":\"dark_gray\",\"extra\":[{\"color\":\"gray\",\"text\":\"Wygaśnie za \"},{\"color\":\"white\",\"text\":\"23h 40m 55s\"}],\"italic\":false,\"text\":\" » \"}",
+            "\"\"",
+            "{\"extra\":[\" \",{\"bold\":false,\"color\":\"dark_gray\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"» \",\"underlined\":false},{\"color\":\"green\",\"italic\":false,\"text\":\"Kliknij \"},{\"color\":\"dark_green\",\"italic\":false,\"text\":\"LEWYM\"},{\"color\":\"green\",\"italic\":false,\"text\":\", aby zakupić przedmiot!\"}],\"text\":\"\"}"
+          ],
+          "minecraft:hide_additional_tooltip": {},
+          "minecraft:attribute_modifiers": {
+            "modifiers": [
+              {
+                "type": "minecraft:luck",
+                "id": "gg-sectors:dummy",
+                "amount": 0.0,
+                "operation": "add_value"
+              }
+            ],
+            "show_in_tooltip": false
+          },
+          "minecraft:unbreakable": {
+            "show_in_tooltip": false
+          },
+          "minecraft:custom_data": {
+            "PublicBukkitValues": {
+              "minecraft:costume": 8
+            }
+          },
+          "minecraft:dyed_color": {
+            "rgb": 0,
+            "show_in_tooltip": false
+          }
+        }
+      },
+      "priceBefore": "400k",
+      "priceAfter": "600k",
+      "time": "30d",
+      "description": "Pewniak moim zdaniem ale kupcie tylko jeśli sie tepacie i przedłuzanie sie zworci.",
+      "theme": 6,
+      "createdAt": 1793305853073,
+      "chance": 100
+    },
     {
       "id": "98f5f8e0-6aeb-4f57-b00c-ef488f284c5b",
       "item": "minecraft:beacon",
@@ -234,7 +299,7 @@
     }
   ],
   "premium": {
-    "iv": "TxLsX5nhNdZsHp31",
-    "data": "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"
+    "iv": "kaODsuhastP12B6+",
+    "data": "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"
   }
 }
